@@ -16,3 +16,18 @@ coffee = 300
 espresso = 100
 puts "コーヒー : #{coffee}円"
 puts "合計 : #{coffee + espresso * 2}円"
+# 問7
+coffee = 400
+espresso = 100
+puts "コーヒー : #{coffee}円"
+puts "合計 : #{coffee + espresso * 2}円"
+# 2-6
+# 問8
+total = 300 * 2
+p total
+tax = total * 0.08
+puts tax
+# 2-7
+# 問9
+total = 300 * 2
+puts total
