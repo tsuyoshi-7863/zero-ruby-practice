@@ -37,6 +37,9 @@ a.each do |x|
   p sum
 end
 puts sum
+# 問10-2
+a = [1, 2, 3]
+puts a.sum
 # 問11
 drinks = []
 drinks.each do |drink|
